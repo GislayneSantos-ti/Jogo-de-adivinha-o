@@ -19,3 +19,5 @@ Este projeto é um pequeno jogo de adivinhação criado com a biblioteca customt
 - Níveis de dificuldade
 - Registro de vitórias e derrotas
 
+## Ator 
+Gislayne Santos
